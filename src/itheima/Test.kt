@@ -1,0 +1,6 @@
+package itheima
+
+class Test {
+
+
+}
